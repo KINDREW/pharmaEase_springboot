@@ -43,7 +43,7 @@ server.port=8080
    - Configure any other properties as needed
    
    ```bash
-	server.port=8080
+	server.port= prefered port
 ```
 
 3. Build the application:
